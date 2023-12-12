@@ -1,0 +1,11 @@
+# Ignore all compiled code
+target
+
+#Ignore vscode folder
+.vscode
+
+#Ignore the test folder
+test
+
+#Ignore the .DS_Store folder
+.DS_Store
